@@ -25,7 +25,7 @@ thes script can
   
   How Run 
  1- chmod +x recon.sh
- 2- bash recontool.sh example.com
+ 2- bash recon-tool.sh example.com
 ------------|
             |
             |-------------------------------|
