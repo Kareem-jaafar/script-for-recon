@@ -1,11 +1,4 @@
-thes script can 
-— Look for open ports 
-— Look for subdomains 
-— Look for file paths 
-On a target domain, and store the scan results to file. 
-The script should be able to scan multiple domains at once, 
-and produce human-readable report files.
------------------------------------------------------------
+
 #!/bin/bash
 
 # --- Configuration ---
